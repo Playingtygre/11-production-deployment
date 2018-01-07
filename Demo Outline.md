@@ -1,4 +1,4 @@
-Lab 11 - TLDR
+Outline of steps for in class demo
 
 - mkdir hello-heroku and cd into it
 - Create server directory and cd into it
